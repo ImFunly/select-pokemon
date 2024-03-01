@@ -1,1 +1,37 @@
 
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+
+h3 {
+    font-weight: 700;
+    
+}
+
+p {
+    text-transform: uppercase;
+    
+}
+
+.pokemonInfo {
+    border: 10px rgba(168, 10, 10, 0.562) solid;
+    border-radius: 2px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: hsl(236, 78%, 46%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: hsl(207, 40%, 45%);
+  }
+  button:active{
+    background-color: hsl(207, 40%, 45%);
+  }
